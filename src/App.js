@@ -1,25 +1,31 @@
-import logo from './logo.svg';
-import './App.css';
+import "./App.css"
+import Header from "./components/common/header/Header"
+import { BrowserRouter as Router, Switch, Route } from "react-router-dom"
+import JobSkills from "./components/jobskills/JobSkills"
+import Academic from "./components/allcourses/Academic"
+import Safety from "./components/safety/Safety"
+import Driving from "./components/driving/Driving"
+import Footer from "./components/common/footer/Footer"
+import Home from "./components/home/Home"
+import Search from "./components/common/search/Search"
 
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
-  );
+    <>
+      <Router>
+        <Header />
+        <Switch>
+          <Route exact path='/' component={Home} />
+          <Route exact path='/jobskills' component={JobSkills} />
+          <Route exact path='/academic' component={Academic} />
+          <Route exact path='/safety' component={Safety} />
+          <Route exact path='/driving' component={Driving} />
+        </Switch>
+        <Search />
+        <Footer />
+      </Router>
+    </>
+  )
 }
 
-export default App;
+export default App
