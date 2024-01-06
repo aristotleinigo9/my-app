@@ -6,7 +6,10 @@ const Footer = () => {
     <>
       <div className='legal'>
         <p>
-          Copyright ©2024 All rights reserved | Still under construction by inigoad for the ITD.
+          Copyright ©2024 All rights reserved.
+        </p>
+         <p>
+          Still under construction by inigoad for the ITD.
         </p>
       </div>
     </>
