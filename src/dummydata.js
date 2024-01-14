@@ -6,7 +6,7 @@
       coursesName: "Basic Mathematics",
       courseInfo: [
         {
-          description: "General mathematics course aimed at developing proficiency in basic arithmetic computational skills and relating these skills to careers and real-life situations",
+          description: "General mathematics course aimed at developing proficiency in basic arithmetic computational skills and relating these skills to careers and real-life situations.",
           learners: "APNE, VCGNE, SST (90 hrs)",
         },
       ],
