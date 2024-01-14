@@ -19,7 +19,7 @@
       coursesName: "Technical Mathematics",
       courseInfo: [
         {
-          description: "Elementary technical mathematics course aimed at developing proficiency in job-related mathematical concepts and applications to trainees who will hold jobs, such as craft, technical, and operator, which will require skills beyong basic mathematics.",
+          description: "Elementary technical mathematics course aimed at developing proficiency in job-related mathematical concepts and applications to trainees who will hold jobs, such as craft, technical, and operator, which will require skills beyond basic mathematics.",
           learners: "APNE, VCGNE, RFT, SST (60 hrs)",
         },
       ],
@@ -43,7 +43,7 @@
       coursesName: "English Functional",
       courseInfo: [
         {
-          description: "With levels ranging from 2 to 6, these courses offer foundation instruction in functional English language skills, with focus on development of productive skills (writing and speaking) that facilitate effective verbal communication accross all functional areas. Also provided are foundational instuction covering writing, typing, listening, and reading skills, with emphasis on language mastery needed to study at the ITC and to perform job tasks effectively.",
+          description: "With levels ranging from 2 to 6, these courses offer foundation instruction in functional English language skills, with focus on development of productive skills (writing and speaking) that facilitate effective verbal communication accross all functional areas. Also provided are foundational instruction covering writing, typing, listening, and reading skills, with emphasis on language mastery needed to study at the ITC and to perform job tasks effectively.",
           learners: "APNE, VCGNE, RFT, STT (175 hrs to 230 hrs)",
         },
       ],
