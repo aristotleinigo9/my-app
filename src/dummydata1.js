@@ -6,8 +6,8 @@ export const coursesCard = [
     coursesName: "Basic Operator Course",
     courseInfo: [
       {
-        description: "Topics include fractions, decimals, percents, accuracy and precision of measurements, basic statistics, geometry, and trigonometry as applied in job-related scenarios.",
-        learners: "APNE, VCGNE, RFT, SST (60 hrs)",
+        description: "This course is an introduction to the oil and gas industry. It provides basic information required to continue job skills training for any outside operation training pattern offered by the traininig center.",
+        learners: "APNE, VCGNE (300 hrs)",
       },
     ],
 
@@ -19,8 +19,8 @@ export const coursesCard = [
     coursesName: "Refinery Basic Operator Course",
     courseInfo: [
       {
-        description: "Topics include fractions, decimals, percents, accuracy and precision of measurements, basic statistics, geometry, and trigonometry as applied in job-related scenarios.",
-        learners: "APNE, VCGNE, RFT, SST (60 hrs)",
+        description: "Divided into two phases, this course introduces trainees to the refinery and train them in commmon operator tasks, safety procedures, and emergency procedures.",
+        learners: "APNE, VCGNE (400 hrs)",
       },
     ],
   },
@@ -28,24 +28,24 @@ export const coursesCard = [
 
   {
     id: 3,
-    cover: "../images/courses/c5.png",
-    coursesName: "Industrial Security",
+    cover: "../images/courses/c4.png",
+    coursesName: "Electrical Hazard Recognition",
     courseInfo: [
       {
-        description: "Topics include fractions, decimals, percents, accuracy and precision of measurements, basic statistics, geometry, and trigonometry as applied in job-related scenarios.",
-        learners: "APNE, VCGNE, RFT, SST (60 hrs)",
+        description: "This is for any employee or contractor working/maintaining electrical equipment or systems that operate on a voltage above 240 V. The course highlights the hazards of an arcflash and details safety procedures and precautions that should be observed when performing maintenance on equipment and systems that operate at these voltages.",
+        learners: "Regulars, Contractors (16 hrs)",
       },
     ],
   },
 
   {
     id: 4,
-    cover: "../images/courses/c6.png",
-    coursesName: "Industrial Firefighting",
+    cover: "../images/courses/c4.png",
+    coursesName: "Restructired APNE Machinist Program",
     courseInfo: [
       {
-        description: "Topics include fractions, decimals, percents, accuracy and precision of measurements, basic statistics, geometry, and trigonometry as applied in job-related scenarios.",
-        learners: "APNE, VCGNE, RFT, SST (60 hrs)",
+        description: "The machinist core program provides theoretical knowledge and hands-on practical skills training for entry level into the targeted job.",
+        learners: "APNE (1945 hrs)",
       },
     ],
   },
