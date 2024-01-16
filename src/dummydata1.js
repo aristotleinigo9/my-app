@@ -41,7 +41,7 @@ export const coursesCard = [
   {
     id: 4,
     cover: "../images/courses/c4.png",
-    coursesName: "Restructired APNE Machinist Program",
+    coursesName: "Restructured APNE Machinist Program",
     courseInfo: [
       {
         description: "The machinist core program provides theoretical knowledge and hands-on practical skills training for entry level into the targeted job.",
