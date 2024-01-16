@@ -19,7 +19,7 @@ export const coursesCard = [
     coursesName: "Manlift Operator Certification Test",
     courseInfo: [
       {
-        description: "This is a test to certify operators on Manlift Operation. Operator will operate a Manlift (Hydraulic, Scissors, Telescoping). The operator will complete the tasks withour error and in accordance with the Company's operating procedures and Manlift manufacturer specification.",
+        description: "This is a test to certify operators on Manlift Operation. Operator will operate a Manlift (Hydraulic, Scissors, Telescoping). The operator will complete the tasks without error and in accordance with the Company's operating procedures and Manlift manufacturer specification.",
         learners: "Regulars, Contractors (8 hrs)",
       },
     ],
