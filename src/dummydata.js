@@ -44,7 +44,7 @@
       courseInfo: [
         {
           description: "With levels ranging from 2 to 6, these courses offer foundation instruction in functional English language skills, with focus on development of productive skills (writing and speaking) that facilitate effective verbal communication accross all functional areas. Also provided are foundational instruction covering writing, typing, listening, and reading skills, with emphasis on language mastery needed to study at the ITC and to perform job tasks effectively.",
-          learners: "APNE, VCGNE, RFT, STT (175 hrs to 230 hrs)",
+          learners: "APNE, VCGNE, RFT, SST (175 hrs to 230 hrs)",
         },
       ],
     },
