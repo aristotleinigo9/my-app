@@ -48,8 +48,9 @@
   }
   .coursesCard .details span {
     color: #1eb2a6;
-    font-weight: 500;
-    font-size: 14px;
+    font-weight: 600;
+    font-size: 18px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
   }
   .coursesCard .price {
     margin: 30px 0;
@@ -60,8 +61,18 @@
     
     font-weight: 500;
     color: #1eb2a6;
+    
   }
 
+  .coursesCard .details .title {
+    font-size: 20px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  }
+
+  .coursesCard .details .box {
+    font-size: 17px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  }
   /*-------------online---------*/
   .online {
     text-align: center;
@@ -119,3 +130,4 @@
   /*-------------online---------*/
   @media screen and (max-width: 768px) {
   }
+

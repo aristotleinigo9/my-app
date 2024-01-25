@@ -8,6 +8,9 @@ import Driving from "./components/driving/Driving"
 import Footer from "./components/common/footer/Footer"
 import Home from "./components/home/Home"
 import Search from "./components/common/search/Search"
+import SoftSkills from "./components/softskills/SoftSkills"
+import SoftSkillsLeaders from "./components/softskillsleaders/SoftSkillsLeaders"
+
 
 function App() {
   return (
@@ -20,6 +23,8 @@ function App() {
           <Route exact path='/academic' component={Academic} />
           <Route exact path='/safety' component={Safety} />
           <Route exact path='/driving' component={Driving} />
+          <Route exact path='/softskills' component={SoftSkills} />
+          <Route exact path='/softskillsleaders' component={SoftSkillsLeaders} />
         </Switch>
         <Search />
         <Footer />
