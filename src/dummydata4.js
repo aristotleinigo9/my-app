@@ -12,7 +12,7 @@ export const coursesCard = [
         Lorem ipsum dolor sit amet, consectetur adipiscing elit, (3) iLorem ipsum dolor sit amet, consectetur adipiscing elit \
         Lorem ipsum dolor sit amet, consectetur adipiscing elit, and (4) Lorem ipsum dolor sit amet, consectetur adipiscing elit \
         Lorem ipsum dolor sit amet, consectetur adipiscing elit \
-        Lorem ipsum dolor sit amet, consectetur adipiscing elit.”,
+        Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
 
         competencies: "(1) Lorem ipsum dolor sit amet, consectetur adipiscing elit \
         Lorem ipsum dolor sit amet, consectetur adipiscing elit, (2) rLorem ipsum dolor sit amet, consectetur adipiscing elit \
