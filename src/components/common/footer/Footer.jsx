@@ -9,7 +9,7 @@ const Footer = () => {
           Copyright ©2024 All rights reserved.
         </p>
          <p>
-          ITD Communication Strategy Group
+          Under development
         </p>
       </div>
     </>
