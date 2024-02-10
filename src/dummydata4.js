@@ -14,9 +14,12 @@ export const coursesCard = [
         Lorem ipsum dolor sit amet, consectetur adipiscing elit \
         Lorem ipsum dolor sit amet, consectetur adipiscing elit.”,
 
-        competencies: "(1) Lorem ipsum dolor sit amet, consectetur adipiscing elit, \
-        (2) Lorem ipsum dolor sit amet, consectetur adipiscing elit, (3) Lorem ipsum dolor sit amet, consectetur adipiscing elit, (4) Lorem ipsum dolor sit amet, consectetur adipiscing elit, and \
-        (5) Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+        competencies: "(1) Lorem ipsum dolor sit amet, consectetur adipiscing elit \
+        Lorem ipsum dolor sit amet, consectetur adipiscing elit, (2) rLorem ipsum dolor sit amet, consectetur adipiscing elit \
+        Lorem ipsum dolor sit amet, consectetur adipiscing elit, (3) iLorem ipsum dolor sit amet, consectetur adipiscing elit \
+        Lorem ipsum dolor sit amet, consectetur adipiscing elit, and (4) Lorem ipsum dolor sit amet, consectetur adipiscing elit \
+        Lorem ipsum dolor sit amet, consectetur adipiscing elit \
+        Lorem ipsum dolor sit amet, consectetur adipiscing elit.”,
       
         learners: "Audience: xcepteur sint occaecat cupidatat",
 
