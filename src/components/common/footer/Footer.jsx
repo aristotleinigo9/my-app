@@ -9,7 +9,7 @@ const Footer = () => {
           Copyright ©2024 All rights reserved.
         </p>
          <p>
-          Under development
+          Site's Name Here
         </p>
       </div>
     </>
